@@ -13,3 +13,7 @@ function hello(name) {
 }
 
 hello('Traore');
+
+function sum(a, b) {
+  return a + b;
+}
