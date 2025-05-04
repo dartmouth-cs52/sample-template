@@ -1,2 +1,2 @@
 const name = 'Traore';
-console.log('👋🏾 Hello Pape');
+console.log('👋🏾 Hello', name);
