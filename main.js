@@ -1,23 +1,2 @@
 const name = 'Traore';
 console.log('👋🏾 Hello', name);
-
-function add(a, b) {
-  return a + b;
-}
-
-const result = add(1, 2);
-console.log('👋🏾 Result', result);
-
-function hello(name) {
-  console.log('👋🏾 Hello', name);
-}
-
-hello('Traore');
-
-function sum(a, b) {
-  return a + b;
-}
-
-function isEven(number) {
-  return number % 2 === 0;
-}
